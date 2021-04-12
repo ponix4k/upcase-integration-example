@@ -1,2 +1,4 @@
 # upcase-integration-example
-wokring through the TDD on the upcase course
+
+## Refectoring code from the Up case example
+working through the TDD on the upcase course
